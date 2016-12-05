@@ -29,7 +29,7 @@
 `fx` - jump to next occurrence of character x  
 `tx` - jump to before next occurrence of character x  
 `}` - jump to next paragraph (or function/block, when editing code)  
-`{ - jump to previous paragraph (or function/block, when editing code)  
+`{` - jump to previous paragraph (or function/block, when editing code)  
 `CTRL` + `b` - move back one full screen  
 `CTRL` + `f` - move forward one full screen  
 `CTRL` + `d` - move forward 1/2 a screen  
